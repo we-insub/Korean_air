@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "대한항공 공개 보너스 좌석 날짜 조회 및 공식 달력 자동 입력",
+  "license": "MIT",
   "type": "module",
   "engines": {
     "node": ">=22"

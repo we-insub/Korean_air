@@ -186,6 +186,10 @@ GitHub Actions의 Windows·macOS 환경에서 설치, 자동 테스트, 타입 �
 - [유튜브 · @Mato_coder](https://www.youtube.com/@Mato_coder)
 - [Threads · @mato_kor](https://www.threads.com/@mato_kor?hl=ko)
 
+## 라이선스
+
+이 저장소의 프로그램과 문서는 [MIT 라이선스](LICENSE)로 제공됩니다. 대한항공·아시아나·SAS 및 제휴 항공사의 상표·서비스·사이트 콘텐츠와 각 의존성은 해당 권리자와 별도 이용 조건을 따릅니다. 이 라이선스는 해당 제3자 자료나 서비스에 대한 권한을 부여하지 않습니다.
+
 ### 로그인과 월별 조회
 
 1. 서버 실행 후 **http://127.0.0.1:8765/** 에 접속합니다. HTML 파일을 직접 열면 조회할 수 없습니다.
